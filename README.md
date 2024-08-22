@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/EEYlER2ao78AAAAi/steve-anime-minecraft-steve.gif" width="281" height="398" alt="a minecraft character with a blush on his cheek" style="max-width: 522px; background-color: unset;">
+<img src="https://media.tenor.com/EEYlER2ao78AAAAi/steve-anime-minecraft-steve.gif" width="281" height="398" alt="a minecraft character with a blush on his cheek" style="max-width: 322px; background-color: unset;">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolassdev&label=Profile%20views&color=0e75b6&style=flat" alt="nicolassdev" /> </p>
 <img class="media-op-image" src="https://i.gifer.com/BLkE.gif" role="presentation" alt="Animated GIF wave, maths, free download solve, " style="z-index: 1;">
