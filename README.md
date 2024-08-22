@@ -1,5 +1,4 @@
- 
-    <img src="https://media.tenor.com/EEYlER2ao78AAAAi/steve-anime-minecraft-steve.gif" width="281" height="338" alt="a minecraft character with a blush on his cheek" style="max-width: 322px; text-align: center; display: block; margin: 0 auto;"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/EEYlER2ao78AAAAi/steve-anime-minecraft-steve.gif" width="281" height="338" alt="a minecraft character with a blush on his cheek" style="max-width: 322px; text-align: center; display: block; margin: 0 auto;"> 
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolassdev&label=Profile%20views&color=0e75b6&style=flat" alt="nicolassdev" /> </p>
