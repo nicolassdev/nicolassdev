@@ -2,7 +2,6 @@
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolassdev&label=Profile%20views&color=0e75b6&style=flat" alt="nicolassdev" /> </p>
-<img class="media-op-image" src="https://i.gifer.com/BLkE.gif" role="presentation" alt="Animated GIF wave, maths, free download solve, " style="z-index: 1;">
 
 
 
